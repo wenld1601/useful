@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1667C344-5AFC-49A7-9325-887DACAAEDC6"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA917BA0-9114-45DA-9B99-32EA1AFCECC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LineChart/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "setChartValues(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA917BA0-9114-45DA-9B99-32EA1AFCECC8 - 4cb90ebf10e43d72"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LineChart.ViewController.setChartValues(Swift.Int) -&gt; ()"
+                  moduleName = "LineChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/higgins/github/useful/testproject/LineChart/LineChart/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "EA917BA0-9114-45DA-9B99-32EA1AFCECC8 - 23b66e5609168d1c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Charts.ChartDataEntry in LineChart.ViewController.setChartValues(Swift.Int) -&gt; ()"
+                  moduleName = "LineChart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/higgins/github/useful/testproject/LineChart/LineChart/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
